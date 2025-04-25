@@ -615,23 +615,20 @@ if ($conn->connect_error) {
                             <label>Màu sắc:</label>
                             <img src="<?= htmlspecialchars($product['anh_san_pham']); ?>" alt="Màu sắc sản phẩm">
                         </div> -->
-                        <div class="form-options color-options">
+                        <!-- <div class="form-options color-options">
                          <label>Màu sắc:</label>
                           <div class="color-images">
                           <img src="https://tronxinh.com/wp-content/uploads/2021/07/mau-be-la-mau-gi-2.jpg" alt="Màu sắc sản phẩm 1">
                           <img src="data:image/webp;base64,UklGRk4BAABXRUJQVlA4IEIBAABwEwCdASrhAOEAPoE8m0ulIqIhoLQI8KAQCWlu4Sqi4rdbl0AMo9ZtleMsgwYi4gFh/nrAhnRSv85hKttmnA9Y5HvK45kj3vJ0kYRHuuBRW0KMwR4Ees2yRdImJu0ltqwLkVqfYK6w2AtQ/Pqvdb0EJuYefbFXhx2OeAEvncvpAe1+f6flt1EQtkiEmaXKwooANCn4TafdCsUCKIuqZRW5XyiVoAD+mn5nD8RfpeesDA6pT4O75Zuo/QEeYnpOl4Zh/RcPYFxS27iaTfNqZTnG5oOvMGYZ4lTCzbLizGnmx0uDol679Ytcc2oCarA+/YguX1SI3iV4lAKznz5LV+AQJafAUe7QFicqtDNPSOCOgHRmkWHvAuirTTwce/2kJoFFgTYCiDU8tP2GNreDVs4RRInmx1yugiR50VEzY1IQAAAA" alt="Màu sắc sản phẩm 2">
                          </div>
-                      </div>
+                      </div> -->
 
 
                         <!-- Phần lựa chọn kích thước -->
                         <div class="form-options size-options">
                             <label>Kích thước:</label>
                             <div class="sub-options">
-                                <button>9M</button>
-                                <button>12M</button>
-                                <button>18M</button>
-                                <button>2Y</button>
+                                <button>3M-1Y</button>
                             </div>
                         </div>
 
@@ -681,10 +678,10 @@ if ($conn->connect_error) {
                 <!-- Tabs for "Mô tả" and "Thông số kỹ thuật" -->
                 <div class="tabs">
                     <button class="tab active">Mô tả</button>
-                    <button class="tab">Thông số kỹ thuật</button>
+                    <!--<button class="tab">Thông số kỹ thuật</button>-->
                 </div>
                 <div class="tab-content">
-                    <p>Đang cập nhật nội dung</p>
+                    <!--<p>Đang cập nhật nội dung</p>-->
                     <?= htmlspecialchars($product['mo_ta']); ?>
                 </div>
 
