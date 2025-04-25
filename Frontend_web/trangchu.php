@@ -1052,7 +1052,9 @@ if ($conn->connect_error) {
                         <li><a href="">Website: www.embeoi.com.vn</a></li>
                         <li><a href="">Email:</a></li>
                         <li><a href=""></a>Hotline: 123456789</li>
-                        <li><a href=""></a></li>
+                        <li><a href="">  CÔNG TY CỔ PHẦN NU VIỆT NAM </a></li>
+                        <li><a href="">  Mã số thuế: 0107126252 </a></li>
+
                     </div>
                 </div>
 
