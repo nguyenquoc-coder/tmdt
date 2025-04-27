@@ -936,16 +936,22 @@ if (isset($_SESSION['name'])) {
                     <div class="sub-mid">
                         <h4>Thông tin liên hệ</h4>
                         <hr>
-                        <li><a href="">Website: www.embeoi.com.vn</a></li>
+                        <li><a href="https://www.nous.vn/?srsltid=AfmBOorhMIKVSjVcdQSTxICkAWN-qi3wCCP2oVB4ADIJjdQlg4raoUF5">Website: www.embeoi.com.vn</a></li>
                         <li><a href="">Email:</a></li>
                         <li><a href=""></a>Hotline: 123456789</li>
-                        <li><a href=""></a></li>
-                    </div>
+                        <li><a href="">  CÔNG TY CỔ PHẦN NU VIỆT NAM </a></li>
+                        <li><a href="">  Mã số thuế: 0107126252 </a></li>
+                        <li><a href="https://www.google.com/maps/place/79+M%E1%BA%A1c+Th%E1%BB%8B+B%C6%B0%E1%BB%9Fi,+B%E1%BA%BFn+Ngh%C3%A9,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh/@10.7744879,106.7041682,1108m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31752f46ed033b17:0x30e06a8cb3223dba!8m2!3d10.7744879!4d106.7041682!16s%2Fg%2F11q2n7xq41?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D">Địa chỉ</a></li>
+                  </div>
                 </div>
                 <div class="col-lg-4 col-4 mb-4">
                     <div class="sub-mid">
                         <h4>Fanpage</h4>
                         <hr>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/ql_donhang.php">Đơn hàng</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/admin2.php">Sản phẩm</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/Thongke.php">Thống kê</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/trangchu.php">Trang chủ</a></li>
                     </div>
                 </div>
             </div>

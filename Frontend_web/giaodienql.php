@@ -1016,6 +1016,13 @@ if (isset($_SESSION['name'])) {
                     <div class="sub-mid">
                         <h4>Fanpage</h4>
                         <hr>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/ql_donhang.php">Đơn hàng</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/admin2.php">Sản phẩm</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/Thongke.php">Thống kê</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/trangchu.php">Trang chủ</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/phanquyen.php">Phân quyền</a></li>
+                        <li><a href="http://localhost/QL_web_new_born/Frontend_web/thongtinnguoidung.php">Quản lý nhân viên</a></li>
+                    
                     </div>
                 </div>
             </div>

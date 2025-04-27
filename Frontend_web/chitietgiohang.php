@@ -430,7 +430,7 @@ if ($conn->connect_error) {
                         ?>
                 <div class="cart-item">
                     <!-- Hiển thị ảnh sản phẩm -->
-                    <img src="<?= htmlspecialchars($row['anh_san_pham']); ?>" alt="Product Image">
+                    <<img src="<?= htmlspecialchars($row['anh_san_pham']); ?>" alt="Product Image">
                     <div class="details">
                         <h3><?= htmlspecialchars($row['ten_san_pham']); ?></h3>
                         <p>SKU: <?= htmlspecialchars($row['san_pham_id']); ?></p>

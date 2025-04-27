@@ -286,7 +286,7 @@ button {
                                 $total += $itemTotal;
                     ?>
                                 <li class="cart-item">
-                                    <img src="/web_new_born/new_born/Frontend_web/<?= htmlspecialchars($item['anh_san_pham']); ?>" alt="Product Image" style="width: 60px; height: 60px;">
+                                    <!--<img src="/web_new_born/new_born/Frontend_web/<?= htmlspecialchars($item['anh_san_pham']); ?>" alt="Product Image" style="width: 60px; height: 60px;">-->
                                     <div class="item-details" style="text-align:start;">
                                         <p class="item-name"><?= htmlspecialchars($item['ten_san_pham']); ?></p>
                                         <p class="item-quantity"><?= $item['so_luong']; ?> x <?= number_format($item['gia'], 0, ',', '.'); ?> ₫</p>

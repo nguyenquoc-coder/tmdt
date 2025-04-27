@@ -155,7 +155,7 @@ while ($row = $result->fetch_assoc()) {
         <div class="table-container">
             <h2 style="color: #a39074;">Thống kê</h2>
             <table class="table table-bordered">
-                <thead>
+                <!--<thead>
                     <tr>
                         <th>STT</th>
                         <th>Họ tên</th>
@@ -165,7 +165,7 @@ while ($row = $result->fetch_assoc()) {
                         <th>Ngày thanh toán</th>
                         <th>Tổng tiền (VNĐ)</th>
                     </tr>
-                </thead>
+                </thead>-->
                 <tbody>
                     <!-- <?php
                     if ($result->num_rows > 0) {
