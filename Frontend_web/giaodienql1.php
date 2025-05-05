@@ -366,12 +366,13 @@ if (isset($_SESSION['name'])) {
         <!-- Navigation -->
         <div class="menu">
             <a href="#">GIỚI THIỆU NOUS</a>
+            <!-- 
             <a href="#">BÉ MẶC</a>
             <a href="#">BÉ NGỦ</a>
             <a href="#">BÉ CHƠI</a>
             <a href="#">BÉ ĂN UỐNG</a>
             <a href="#">BÉ VỆ SINH</a>
-            <a href="#">BÉ RA NGOÀI</a>
+            <a href="#">BÉ RA NGOÀI</a>-->
         </div>
     </div>
 
